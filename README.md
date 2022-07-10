@@ -2,7 +2,7 @@
 
 requires [php](https://www.php.net/).
 
-Run palindrome-test in terminal with command :
+Run file php in terminal with command :
 
 ```sh
 php "Filename.php"
